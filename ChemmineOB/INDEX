@@ -1,0 +1,11 @@
+$,_p_OpenBabel__AliasData-method
+                        Classes from OB
+canonicalNumbering_OB   Canonical Numbering OB
+convertFormat           Convert Formats
+convertFormatFile       Convert Format of Files
+convertToImage          Convert To Image
+exactMass_OB            Exact Mass (Monoisotopic Mass)
+fingerprint_OB          Fingerprints from OpenBabel
+forEachMol              For Each Mol
+prop_OB                 Properties from OpenBabel
+smartsSearch_OB         SMARTS Search

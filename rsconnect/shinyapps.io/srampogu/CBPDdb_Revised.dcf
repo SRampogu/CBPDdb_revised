@@ -1,0 +1,13 @@
+name: CBPDdb_Revised
+title: CBPDdb_Revised
+username:
+account: srampogu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9538022
+bundleId: 7518377
+url: https://srampogu.shinyapps.io/CBPDdb_Revised/
+when: 1690889012.89973
+lastSyncTime: 1690889012.89973
+asMultiple: FALSE
+asStatic: FALSE

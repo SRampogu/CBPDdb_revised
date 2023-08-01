@@ -1,0 +1,556 @@
+Name,Therapeutic Action,DOI,title,Chemical name,References
+Celecoxib,Antiinflammatory,PubChem CID 2662,Celecoxib,Celecoxib,https://pubchem.ncbi.nlm.nih.gov/compound/Celecoxib
+CDPPB,Antipsychotic,PubChem CID 11245456,CDPPB,CDPPB,https://pubchem.ncbi.nlm.nih.gov/compound/11245456
+Lonazolac,Antiinflammatory,PubChem CID 68706,Lonazolac,Lonazolac,https://pubchem.ncbi.nlm.nih.gov/compound/Lonazolac
+Mepirizole,Antiinflammatory,PubChem CID 3242,Mepirizole,Mepirizole,https://pubchem.ncbi.nlm.nih.gov/compound/Epirizole
+Rimonabant,Antiobesity,PubChem CID 104850,Rimonabant,Rimonabant,https://pubchem.ncbi.nlm.nih.gov/compound/Rimonabant
+Difenamizole,Analgesic,PubChem CID 65695,Difenamizole,Difenamizole,https://pubchem.ncbi.nlm.nih.gov/compound/Difenamizole
+Betazole,H2receptor agonist,PubChem CID 7741,Betazole,Betazole,https://pubchem.ncbi.nlm.nih.gov/compound/Betazole
+Fezolamine,Antidepressant,PubChem CID 54567,Fezolamine,Fezolamine,https://pubchem.ncbi.nlm.nih.gov/compound/Fezolamine
+151,Antimicrobial,doi:10.3390/molecules23010134,151,151,https://www.mdpi.com/1420-3049/23/1/134
+152,Antimicrobial,doi:10.3390/molecules23010134,152,152,https://www.mdpi.com/1420-3049/23/1/134
+153,Antimicrobial,doi:10.3390/molecules23010134,153,153,https://www.mdpi.com/1420-3049/23/1/134
+155,Antimicrobial,doi:10.3390/molecules23010134,155,155,https://www.mdpi.com/1420-3049/23/1/134
+156,Antimicrobial,doi:10.3390/molecules23010134,156,156,https://www.mdpi.com/1420-3049/23/1/134
+157,Antimicrobial,doi:10.3390/molecules23010134,157,157,https://www.mdpi.com/1420-3049/23/1/134
+158,Antibacterial,doi:10.3390/molecules23010134,158,158,https://www.mdpi.com/1420-3049/23/1/134
+159,Antibacterial,doi:10.3390/molecules23010134,159,159,https://www.mdpi.com/1420-3049/23/1/134
+160,Antibacterial,doi:10.3390/molecules23010134,160,160,https://www.mdpi.com/1420-3049/23/1/134
+161,Antibacterial,doi:10.3390/molecules23010134,161,161,https://www.mdpi.com/1420-3049/23/1/134
+162,Antibacterial,doi:10.3390/molecules23010134,162,162,https://www.mdpi.com/1420-3049/23/1/134
+163,Antibacterial,doi:10.3390/molecules23010134,163,163,https://www.mdpi.com/1420-3049/23/1/134
+164,Antibacterial,doi:10.3390/molecules23010134,164,164,https://www.mdpi.com/1420-3049/23/1/134
+171,Antimicrobial,doi:10.3390/molecules23010134,171,171,https://www.mdpi.com/1420-3049/23/1/134
+172,Antimicrobial,doi:10.3390/molecules23010134,172,172,https://www.mdpi.com/1420-3049/23/1/134
+173,Antimicrobial,doi:10.3390/molecules23010134,173,173,https://www.mdpi.com/1420-3049/23/1/134
+174,Antimicrobial,doi:10.3390/molecules23010134,174,174,https://www.mdpi.com/1420-3049/23/1/134
+175,Antimicrobial,doi:10.3390/molecules23010134,175,175,https://www.mdpi.com/1420-3049/23/1/134
+177,Antimicrobial,doi:10.3390/molecules23010134,177,177,https://www.mdpi.com/1420-3049/23/1/134
+178,Antimicrobial,doi:10.3390/molecules23010134,178,178,https://www.mdpi.com/1420-3049/23/1/134
+179,Antimicrobial,doi:10.3390/molecules23010134,179,179,https://www.mdpi.com/1420-3049/23/1/134
+180,Antimicrobial,doi:10.3390/molecules23010134,180,180,https://www.mdpi.com/1420-3049/23/1/134
+182,Antimicrobial,doi:10.3390/molecules23010134,182,182,https://www.mdpi.com/1420-3049/23/1/134
+181,Antimicrobial,doi:10.3390/molecules23010134,181,181,https://www.mdpi.com/1420-3049/23/1/134
+183,Antimicrobial,doi:10.3390/molecules23010134,183,183,https://www.mdpi.com/1420-3049/23/1/134
+186,Antimicrobial,doi:10.3390/molecules23010134,186,186,https://www.mdpi.com/1420-3049/23/1/134
+184,Antimicrobial,doi:10.3390/molecules23010134,184,184,https://www.mdpi.com/1420-3049/23/1/134
+185,Antimicrobial,doi:10.3390/molecules23010134,185,185,https://www.mdpi.com/1420-3049/23/1/134
+187,Antimicrobial,doi:10.3390/molecules23010134,187,187,https://www.mdpi.com/1420-3049/23/1/134
+188,Antimicrobial,doi:10.3390/molecules23010134,188,188,https://www.mdpi.com/1420-3049/23/1/134
+189,Antimicrobial,doi:10.3390/molecules23010134,189,189,https://www.mdpi.com/1420-3049/23/1/134
+190,Antimicrobial,doi:10.3390/molecules23010134,190,190,https://www.mdpi.com/1420-3049/23/1/134
+191,Antimicrobial,doi:10.3390/molecules23010134,191,191,https://www.mdpi.com/1420-3049/23/1/134
+192,Antimicrobial,doi:10.3390/molecules23010134,192,192,https://www.mdpi.com/1420-3049/23/1/134
+193,Antimicrobial,doi:10.3390/molecules23010134,193,193,https://www.mdpi.com/1420-3049/23/1/134
+194,Antimicrobial,doi:10.3390/molecules23010134,194,194,https://www.mdpi.com/1420-3049/23/1/134
+195,Antimicrobial,doi:10.3390/molecules23010134,195,195,https://www.mdpi.com/1420-3049/23/1/134
+197,Antimicrobial,doi:10.3390/molecules23010134,197,197,https://www.mdpi.com/1420-3049/23/1/134
+198,Antimicrobial,doi:10.3390/molecules23010134,198,198,https://www.mdpi.com/1420-3049/23/1/134
+199,Antimicrobial,doi:10.3390/molecules23010134,199,199,https://www.mdpi.com/1420-3049/23/1/134
+200,Antimicrobial,doi:10.3390/molecules23010134,200,200,https://www.mdpi.com/1420-3049/23/1/134
+202,Antimicrobial,doi:10.3390/molecules23010134,202,202,https://www.mdpi.com/1420-3049/23/1/134
+203,Antimicrobial,doi:10.3390/molecules23010134,203,203,https://www.mdpi.com/1420-3049/23/1/134
+204,Antimicrobial,doi:10.3390/molecules23010134,204,204,https://www.mdpi.com/1420-3049/23/1/134
+205,Antimicrobial,doi:10.3390/molecules23010134,205,205,https://www.mdpi.com/1420-3049/23/1/134
+207,Antimicrobial,doi:10.3390/molecules23010134,207,207,https://www.mdpi.com/1420-3049/23/1/134
+208,Antimicrobial,doi:10.3390/molecules23010134,208,208,https://www.mdpi.com/1420-3049/23/1/134
+209,Antimicrobial,doi:10.3390/molecules23010134,209,209,https://www.mdpi.com/1420-3049/23/1/134
+210,Antimicrobial,doi:10.3390/molecules23010134,210,210,https://www.mdpi.com/1420-3049/23/1/134
+211,Antimicrobial,doi:10.3390/molecules23010134,211,211,https://www.mdpi.com/1420-3049/23/1/134
+212,Antimicrobial,doi:10.3390/molecules23010134,212,212,https://www.mdpi.com/1420-3049/23/1/134
+213,Antimicrobial,doi:10.3390/molecules23010134,213,213,https://www.mdpi.com/1420-3049/23/1/134
+214,Anticancer,doi:10.3390/molecules23010134,214,214,https://www.mdpi.com/1420-3049/23/1/134
+215,Anticancer,doi:10.3390/molecules23010134,215,215,https://www.mdpi.com/1420-3049/23/1/134
+217,Anticancer,doi:10.3390/molecules23010134,217,217,https://www.mdpi.com/1420-3049/23/1/134
+216,Anticancer,doi:10.3390/molecules23010134,216,216,https://www.mdpi.com/1420-3049/23/1/134
+218,Anticancer,doi:10.3390/molecules23010134,218,218,https://www.mdpi.com/1420-3049/23/1/134
+219,Anticancer,doi:10.3390/molecules23010134,219,219,https://www.mdpi.com/1420-3049/23/1/134
+221,Anticancer,doi:10.3390/molecules23010134,221,221,https://www.mdpi.com/1420-3049/23/1/134
+222,Anticancer,doi:10.3390/molecules23010134,222,222,https://www.mdpi.com/1420-3049/23/1/134
+224,Anticancer,doi:10.3390/molecules23010134,224,224,https://www.mdpi.com/1420-3049/23/1/134
+225,Anticancer,doi:10.3390/molecules23010134,225,225,https://www.mdpi.com/1420-3049/23/1/134
+226,Anticancer,doi:10.3390/molecules23010134,226,226,https://www.mdpi.com/1420-3049/23/1/134
+227,Anticancer,doi:10.3390/molecules23010134,227,227,https://www.mdpi.com/1420-3049/23/1/134
+228,Anticancer,doi:10.3390/molecules23010134,228,228,https://www.mdpi.com/1420-3049/23/1/134
+230,Anticancer,doi:10.3390/molecules23010134,230,230,https://www.mdpi.com/1420-3049/23/1/134
+231,Anticancer,doi:10.3390/molecules23010134,231,231,https://www.mdpi.com/1420-3049/23/1/134
+232,Anticancer,doi:10.3390/molecules23010134,232,232,https://www.mdpi.com/1420-3049/23/1/134
+233,Anticancer,doi:10.3390/molecules23010134,233,233,https://www.mdpi.com/1420-3049/23/1/134
+234,Anticancer,doi:10.3390/molecules23010134,234,234,https://www.mdpi.com/1420-3049/23/1/134
+235,Anticancer,doi:10.3390/molecules23010134,235,235,https://www.mdpi.com/1420-3049/23/1/134
+238,Anticancer,doi:10.3390/molecules23010134,238,238,https://www.mdpi.com/1420-3049/23/1/134
+239,Anticancer,doi:10.3390/molecules23010134,239,239,https://www.mdpi.com/1420-3049/23/1/134
+240,Anticancer,doi:10.3390/molecules23010134,240,240,https://www.mdpi.com/1420-3049/23/1/134
+241,Anticancer,doi:10.3390/molecules23010134,241,241,https://www.mdpi.com/1420-3049/23/1/134
+242,Anticancer,doi:10.3390/molecules23010134,242,242,https://www.mdpi.com/1420-3049/23/1/134
+243,Anticancer,doi:10.3390/molecules23010134,243,243,https://www.mdpi.com/1420-3049/23/1/134
+244,Anticancer,doi:10.3390/molecules23010134,244,244,https://www.mdpi.com/1420-3049/23/1/134
+245,Anticancer,doi:10.3390/molecules23010134,245,245,https://www.mdpi.com/1420-3049/23/1/134
+246,Anticancer,doi:10.3390/molecules23010134,246,246,https://www.mdpi.com/1420-3049/23/1/134
+247,Anticancer,doi:10.3390/molecules23010134,247,247,https://www.mdpi.com/1420-3049/23/1/134
+248,Anticancer,doi:10.3390/molecules23010134,248,248,https://www.mdpi.com/1420-3049/23/1/134
+249,Anticancer,doi:10.3390/molecules23010134,249,249,https://www.mdpi.com/1420-3049/23/1/134
+250,Anticancer,doi:10.3390/molecules23010134,250,250,https://www.mdpi.com/1420-3049/23/1/134
+251,Anticancer,doi:10.3390/molecules23010134,251,251,https://www.mdpi.com/1420-3049/23/1/134
+252,Anticancer,doi:10.3390/molecules23010134,252,252,https://www.mdpi.com/1420-3049/23/1/134
+253,Anticancer,doi:10.3390/molecules23010134,253,253,https://www.mdpi.com/1420-3049/23/1/134
+254,Anticancer,doi:10.3390/molecules23010134,254,254,https://www.mdpi.com/1420-3049/23/1/134
+255,Anticancer,doi:10.3390/molecules23010134,255,255,https://www.mdpi.com/1420-3049/23/1/134
+256,Anticancer,doi:10.3390/molecules23010134,256,256,https://www.mdpi.com/1420-3049/23/1/134
+260,Anticancer,doi:10.3390/molecules23010134,260,260,https://www.mdpi.com/1420-3049/23/1/134
+261,Anticancer,doi:10.3390/molecules23010134,261,261,https://www.mdpi.com/1420-3049/23/1/134
+262,Anticancer,doi:10.3390/molecules23010134,262,262,https://www.mdpi.com/1420-3049/23/1/134
+263,Anticancer,doi:10.3390/molecules23010134,263,263,https://www.mdpi.com/1420-3049/23/1/134
+265,Anticancer,doi:10.3390/molecules23010134,265,265,https://www.mdpi.com/1420-3049/23/1/134
+266,Anticancer,doi:10.3390/molecules23010134,266,266,https://www.mdpi.com/1420-3049/23/1/134
+267,Anticancer,doi:10.3390/molecules23010134,267,267,https://www.mdpi.com/1420-3049/23/1/134
+268,Anticancer,doi:10.3390/molecules23010134,268,268,https://www.mdpi.com/1420-3049/23/1/134
+269,Anticancer,doi:10.3390/molecules23010134,269,269,https://www.mdpi.com/1420-3049/23/1/134
+271,Anticancer,doi:10.3390/molecules23010134,271,271,https://www.mdpi.com/1420-3049/23/1/134
+272,Anticancer,doi:10.3390/molecules23010134,272,272,https://www.mdpi.com/1420-3049/23/1/134
+273,Anticancer,doi:10.3390/molecules23010134,273,273,https://www.mdpi.com/1420-3049/23/1/134
+274,Anticancer,doi:10.3390/molecules23010134,274,274,https://www.mdpi.com/1420-3049/23/1/134
+275,Anticancer,doi:10.3390/molecules23010134,275,275,https://www.mdpi.com/1420-3049/23/1/134
+276,Anticancer,doi:10.3390/molecules23010134,276,276,https://www.mdpi.com/1420-3049/23/1/134
+277,Anticancer,doi:10.3390/molecules23010134,277,277,https://www.mdpi.com/1420-3049/23/1/134
+278,Anticancer,doi:10.3390/molecules23010134,278,278,https://www.mdpi.com/1420-3049/23/1/134
+279,Anticancer,doi:10.3390/molecules23010134,279,279,https://www.mdpi.com/1420-3049/23/1/134
+280,Anticancer,doi:10.3390/molecules23010134,280,280,https://www.mdpi.com/1420-3049/23/1/134
+281,Anticancer,doi:10.3390/molecules23010134,281,281,https://www.mdpi.com/1420-3049/23/1/134
+282,Anticancer,doi:10.3390/molecules23010134,282,282,https://www.mdpi.com/1420-3049/23/1/134
+283,Anticancer,doi:10.3390/molecules23010134,283,283,https://www.mdpi.com/1420-3049/23/1/134
+284,Anticancer,doi:10.3390/molecules23010134,284,284,https://www.mdpi.com/1420-3049/23/1/134
+285,Anticancer,doi:10.3390/molecules23010134,285,285,https://www.mdpi.com/1420-3049/23/1/134
+286,Anticancer,doi:10.3390/molecules23010134,286,286,https://www.mdpi.com/1420-3049/23/1/134
+290,Anticancer,doi:10.3390/molecules23010134,290,290,https://www.mdpi.com/1420-3049/23/1/134
+291,Anticancer,doi:10.3390/molecules23010134,291,291,https://www.mdpi.com/1420-3049/23/1/134
+293,Anticancer,doi:10.3390/molecules23010134,293,293,https://www.mdpi.com/1420-3049/23/1/134
+292,Anticancer,doi:10.3390/molecules23010134,292,292,https://www.mdpi.com/1420-3049/23/1/134
+294,Antiinflammatory,doi:10.3390/molecules23010134,294,294,https://www.mdpi.com/1420-3049/23/1/134
+295,Antiinflammatory,doi:10.3390/molecules23010134,295,295,https://www.mdpi.com/1420-3049/23/1/134
+296,Antiinflammatory,doi:10.3390/molecules23010134,296,296,https://www.mdpi.com/1420-3049/23/1/134
+298,Antiinflammatory,doi:10.3390/molecules23010134,298,298,https://www.mdpi.com/1420-3049/23/1/134
+299,Antiinflammatory,doi:10.3390/molecules23010134,299,299,https://www.mdpi.com/1420-3049/23/1/134
+300,Antiinflammatory,doi:10.3390/molecules23010134,300,300,https://www.mdpi.com/1420-3049/23/1/134
+301,Antiinflammatory,doi:10.3390/molecules23010134,301,301,https://www.mdpi.com/1420-3049/23/1/134
+302,Antiinflammatory and analgesic,doi:10.3390/molecules23010134,302,302,https://www.mdpi.com/1420-3049/23/1/134
+306,Antiinflammatory and analgesic,doi:10.3390/molecules23010134,306,306,https://www.mdpi.com/1420-3049/23/1/134
+307,Antiinflammatory and analgesic,doi:10.3390/molecules23010134,307,307,https://www.mdpi.com/1420-3049/23/1/134
+308,Antiinflammatory and analgesic,doi:10.3390/molecules23010134,308,308,https://www.mdpi.com/1420-3049/23/1/134
+309,Antiinflammatory and analgesic,doi:10.3390/molecules23010134,309,309,https://www.mdpi.com/1420-3049/23/1/134
+310,Antiinflammatory and analgesic,doi:10.3390/molecules23010134,310,310,https://www.mdpi.com/1420-3049/23/1/134
+316,Antiinflammatory and analgesic,doi:10.3390/molecules23010134,316,316,https://www.mdpi.com/1420-3049/23/1/134
+321,Antiinflammatory and analgesic,doi:10.3390/molecules23010134,321,321,https://www.mdpi.com/1420-3049/23/1/134
+322,Antiinflammatory and analgesic,doi:10.3390/molecules23010134,322,322,https://www.mdpi.com/1420-3049/23/1/134
+323,Antiinflammatory and analgesic,doi:10.3390/molecules23010134,323,323,https://www.mdpi.com/1420-3049/23/1/134
+324,Antiinflammatory and analgesic,doi:10.3390/molecules23010134,324,324,https://www.mdpi.com/1420-3049/23/1/134
+325,Antiinflammatory,doi:10.3390/molecules23010134,325,325,https://www.mdpi.com/1420-3049/23/1/134
+327,Antiinflammatory,doi:10.3390/molecules23010134,327,327,https://www.mdpi.com/1420-3049/23/1/134
+330,Antiinflammatory,doi:10.3390/molecules23010134,330,330,https://www.mdpi.com/1420-3049/23/1/134
+331,Antiinflammatory,doi:10.3390/molecules23010134,331,331,https://www.mdpi.com/1420-3049/23/1/134
+332,Antiinflammatory,doi:10.3390/molecules23010134,332,332,https://www.mdpi.com/1420-3049/23/1/134
+333,Antiinflammatory,doi:10.3390/molecules23010134,333,333,https://www.mdpi.com/1420-3049/23/1/134
+334,Antiinflammatory,doi:10.3390/molecules23010134,334,334,https://www.mdpi.com/1420-3049/23/1/134
+335,Antiinflammatory,doi:10.3390/molecules23010134,335,335,https://www.mdpi.com/1420-3049/23/1/134
+336,Antiinflammatory,doi:10.3390/molecules23010134,336,336,https://www.mdpi.com/1420-3049/23/1/134
+337,Antiinflammatory,doi:10.3390/molecules23010134,337,337,https://www.mdpi.com/1420-3049/23/1/134
+338,Antiinflammatory,doi:10.3390/molecules23010134,338,338,https://www.mdpi.com/1420-3049/23/1/134
+339,Antiinflammatory,doi:10.3390/molecules23010134,339,339,https://www.mdpi.com/1420-3049/23/1/134
+341,Antiinflammatory,doi:10.3390/molecules23010134,341,341,https://www.mdpi.com/1420-3049/23/1/134
+342,antitubercular,doi:10.3390/molecules23010134,342,342,https://www.mdpi.com/1420-3049/23/1/134
+343,antitubercular,doi:10.3390/molecules23010134,343,343,https://www.mdpi.com/1420-3049/23/1/134
+344,antitubercular,doi:10.3390/molecules23010134,344,344,https://www.mdpi.com/1420-3049/23/1/134
+345,antitubercular,doi:10.3390/molecules23010134,345,345,https://www.mdpi.com/1420-3049/23/1/134
+346a,antitubercular,doi:10.3390/molecules23010134,346a,346a,https://www.mdpi.com/1420-3049/23/1/134
+346b,antitubercular,doi:10.3390/molecules23010134,346b,346b,https://www.mdpi.com/1420-3049/23/1/134
+347,antitubercular,doi:10.3390/molecules23010134,347,347,https://www.mdpi.com/1420-3049/23/1/134
+348,antitubercular,doi:10.3390/molecules23010134,348,348,https://www.mdpi.com/1420-3049/23/1/134
+350,antitubercular,doi:10.3390/molecules23010134,350,350,https://www.mdpi.com/1420-3049/23/1/134
+351,antitubercular,doi:10.3390/molecules23010134,351,351,https://www.mdpi.com/1420-3049/23/1/134
+352,antitubercular,doi:10.3390/molecules23010134,352,352,https://www.mdpi.com/1420-3049/23/1/134
+353,antitubercular,doi:10.3390/molecules23010134,353,353,https://www.mdpi.com/1420-3049/23/1/134
+354,antitubercular,doi:10.3390/molecules23010134,354,354,https://www.mdpi.com/1420-3049/23/1/134
+355,antitubercular,doi:10.3390/molecules23010134,355,355,https://www.mdpi.com/1420-3049/23/1/134
+357,antitubercular,doi:10.3390/molecules23010134,357,357,https://www.mdpi.com/1420-3049/23/1/134
+358,antitubercular,doi:10.3390/molecules23010134,358,358,https://www.mdpi.com/1420-3049/23/1/134
+359,antitubercular,doi:10.3390/molecules23010134,359,359,https://www.mdpi.com/1420-3049/23/1/134
+360,antitubercular,doi:10.3390/molecules23010134,360,360,https://www.mdpi.com/1420-3049/23/1/134
+361,antitubercular,doi:10.3390/molecules23010134,361,361,https://www.mdpi.com/1420-3049/23/1/134
+362,antitubercular,doi:10.3390/molecules23010134,362,362,https://www.mdpi.com/1420-3049/23/1/134
+363,antitubercular,doi:10.3390/molecules23010134,363,363,https://www.mdpi.com/1420-3049/23/1/134
+364,antitubercular,doi:10.3390/molecules23010134,364,364,https://www.mdpi.com/1420-3049/23/1/134
+365,antitubercular,doi:10.3390/molecules23010134,365,365,https://www.mdpi.com/1420-3049/23/1/134
+366,antitubercular,doi:10.3390/molecules23010134,366,366,https://www.mdpi.com/1420-3049/23/1/134
+373,antitubercular,doi:10.3390/molecules23010134,373,373,https://www.mdpi.com/1420-3049/23/1/134
+374,antitubercular,doi:10.3390/molecules23010134,374,374,https://www.mdpi.com/1420-3049/23/1/134
+375,antitubercular,doi:10.3390/molecules23010134,375,375,https://www.mdpi.com/1420-3049/23/1/134
+376,antitubercular,doi:10.3390/molecules23010134,376,376,https://www.mdpi.com/1420-3049/23/1/134
+377,antitubercular,doi:10.3390/molecules23010134,377,377,https://www.mdpi.com/1420-3049/23/1/134
+378,antitubercular,doi:10.3390/molecules23010134,378,378,https://www.mdpi.com/1420-3049/23/1/134
+379,antitubercular,doi:10.3390/molecules23010134,379,379,https://www.mdpi.com/1420-3049/23/1/134
+380,antitubercular,doi:10.3390/molecules23010134,380,380,https://www.mdpi.com/1420-3049/23/1/134
+381,antitubercular,doi:10.3390/molecules23010134,381,381,https://www.mdpi.com/1420-3049/23/1/134
+382,antitubercular,doi:10.3390/molecules23010134,382,382,https://www.mdpi.com/1420-3049/23/1/134
+383,antitubercular,doi:10.3390/molecules23010134,383,383,https://www.mdpi.com/1420-3049/23/1/134
+384,antitubercular,doi:10.3390/molecules23010134,384,384,https://www.mdpi.com/1420-3049/23/1/134
+385,antitubercular,doi:10.3390/molecules23010134,385,385,https://www.mdpi.com/1420-3049/23/1/134
+386,antitubercular,doi:10.3390/molecules23010134,386,386,https://www.mdpi.com/1420-3049/23/1/134
+387,antitubercular,doi:10.3390/molecules23010134,387,387,https://www.mdpi.com/1420-3049/23/1/134
+389,antitubercular,doi:10.3390/molecules23010134,389,389,https://www.mdpi.com/1420-3049/23/1/134
+390,antiviral,doi:10.3390/molecules23010134,390,390,https://www.mdpi.com/1420-3049/23/1/134
+391,antiviral,doi:10.3390/molecules23010134,391,391,https://www.mdpi.com/1420-3049/23/1/134
+392,antiviral,doi:10.3390/molecules23010134,392,392,https://www.mdpi.com/1420-3049/23/1/134
+393,antiviral,doi:10.3390/molecules23010134,393,393,https://www.mdpi.com/1420-3049/23/1/134
+395,antiviral,doi:10.3390/molecules23010134,395,395,https://www.mdpi.com/1420-3049/23/1/134
+396,antiviral,doi:10.3390/molecules23010134,396,396,https://www.mdpi.com/1420-3049/23/1/134
+397,antiviral,doi:10.3390/molecules23010134,397,397,https://www.mdpi.com/1420-3049/23/1/134
+399,antiviral,doi:10.3390/molecules23010134,399,399,https://www.mdpi.com/1420-3049/23/1/134
+400,antiviral,doi:10.3390/molecules23010134,400,400,https://www.mdpi.com/1420-3049/23/1/134
+401,antiviral,doi:10.3390/molecules23010134,401,401,https://www.mdpi.com/1420-3049/23/1/134
+402,antiviral,doi:10.3390/molecules23010134,402,402,https://www.mdpi.com/1420-3049/23/1/134
+403,antiviral,doi:10.3390/molecules23010134,403,403,https://www.mdpi.com/1420-3049/23/1/134
+404,antiviral,doi:10.3390/molecules23010134,404,404,https://www.mdpi.com/1420-3049/23/1/134
+405,antiviral,doi:10.3390/molecules23010134,405,405,https://www.mdpi.com/1420-3049/23/1/134
+406,antiviral,doi:10.3390/molecules23010134,406,406,https://www.mdpi.com/1420-3049/23/1/134
+407,antiviral,doi:10.3390/molecules23010134,407,407,https://www.mdpi.com/1420-3049/23/1/134
+408,antiviral,doi:10.3390/molecules23010134,408,408,https://www.mdpi.com/1420-3049/23/1/134
+410,antiviral,doi:10.3390/molecules23010134,410,410,https://www.mdpi.com/1420-3049/23/1/134
+411,antiviral,doi:10.3390/molecules23010134,411,411,https://www.mdpi.com/1420-3049/23/1/134
+412,antiviral,doi:10.3390/molecules23010134,412,412,https://www.mdpi.com/1420-3049/23/1/134
+413,antiviral,doi:10.3390/molecules23010134,413,413,https://www.mdpi.com/1420-3049/23/1/134
+414,antiviral,doi:10.3390/molecules23010134,414,414,https://www.mdpi.com/1420-3049/23/1/134
+415,antiviral,doi:10.3390/molecules23010134,415,415,https://www.mdpi.com/1420-3049/23/1/134
+420,antiviral,doi:10.3390/molecules23010134,420,420,https://www.mdpi.com/1420-3049/23/1/134
+421,antiviral,doi:10.3390/molecules23010134,421,421,https://www.mdpi.com/1420-3049/23/1/134
+422,antiviral,doi:10.3390/molecules23010134,422,422,https://www.mdpi.com/1420-3049/23/1/134
+423,antiviral,doi:10.3390/molecules23010134,423,423,https://www.mdpi.com/1420-3049/23/1/134
+424,antiviral,doi:10.3390/molecules23010134,424,424,https://www.mdpi.com/1420-3049/23/1/134
+425,antiviral,doi:10.3390/molecules23010134,425,425,https://www.mdpi.com/1420-3049/23/1/134
+426,antiviral,doi:10.3390/molecules23010134,426,426,https://www.mdpi.com/1420-3049/23/1/134
+427,antiviral,doi:10.3390/molecules23010134,427,427,https://www.mdpi.com/1420-3049/23/1/134
+428,antiAzheimer's,doi:10.3390/molecules23010134,428,428,https://www.mdpi.com/1420-3049/23/1/134
+429,antiAzheimer's,doi:10.3390/molecules23010134,429,429,https://www.mdpi.com/1420-3049/23/1/134
+430,antiAzheimer's,doi:10.3390/molecules23010134,430,430,https://www.mdpi.com/1420-3049/23/1/134
+431,antiAzheimer's,doi:10.3390/molecules23010134,431,431,https://www.mdpi.com/1420-3049/23/1/134
+432,antiAzheimer's,doi:10.3390/molecules23010134,432,432,https://www.mdpi.com/1420-3049/23/1/134
+434,antiAzheimer's,doi:10.3390/molecules23010134,434,434,https://www.mdpi.com/1420-3049/23/1/134
+435,antiAzheimer's,doi:10.3390/molecules23010134,435,435,https://www.mdpi.com/1420-3049/23/1/134
+436,antiAzheimer's,doi:10.3390/molecules23010134,436,436,https://www.mdpi.com/1420-3049/23/1/134
+437,antiAzheimer's,doi:10.3390/molecules23010134,437,437,https://www.mdpi.com/1420-3049/23/1/134
+438,antiAzheimer's,doi:10.3390/molecules23010134,438,438,https://www.mdpi.com/1420-3049/23/1/134
+439,antiAzheimer's,doi:10.3390/molecules23010134,439,439,https://www.mdpi.com/1420-3049/23/1/134
+440,antiAzheimer's,doi:10.3390/molecules23010134,440,440,https://www.mdpi.com/1420-3049/23/1/134
+444,antiDiabetic,doi:10.3390/molecules23010134,444,444,https://www.mdpi.com/1420-3049/23/1/134
+445,antiDiabetic,doi:10.3390/molecules23010134,445,445,https://www.mdpi.com/1420-3049/23/1/134
+447,antiDiabetic,doi:10.3390/molecules23010134,447,447,https://www.mdpi.com/1420-3049/23/1/134
+448,antiDiabetic,doi:10.3390/molecules23010134,448,448,https://www.mdpi.com/1420-3049/23/1/134
+449,antiDiabetic,doi:10.3390/molecules23010134,449,449,https://www.mdpi.com/1420-3049/23/1/134
+450,antiDiabetic,doi:10.3390/molecules23010134,450,450,https://www.mdpi.com/1420-3049/23/1/134
+451,antiDiabetic,doi:10.3390/molecules23010134,451,451,https://www.mdpi.com/1420-3049/23/1/134
+452,antiDiabetic,doi:10.3390/molecules23010134,452,452,https://www.mdpi.com/1420-3049/23/1/134
+453,antiDiabetic,doi:10.3390/molecules23010134,453,453,https://www.mdpi.com/1420-3049/23/1/134
+454,antiDiabetic,doi:10.3390/molecules23010134,454,454,https://www.mdpi.com/1420-3049/23/1/134
+455,antiDiabetic,doi:10.3390/molecules23010134,455,455,https://www.mdpi.com/1420-3049/23/1/134
+460,antiDiabetic,doi:10.3390/molecules23010134,460,460,https://www.mdpi.com/1420-3049/23/1/134
+461,antiDiabetic,doi:10.3390/molecules23010134,461,461,https://www.mdpi.com/1420-3049/23/1/134
+465,antiLeishmanial,doi:10.3390/molecules23010134,465,465,https://www.mdpi.com/1420-3049/23/1/134
+466,antiLeishmanial,doi:10.3390/molecules23010134,466,466,https://www.mdpi.com/1420-3049/23/1/134
+467,antiLeishmanial,doi:10.3390/molecules23010134,467,467,https://www.mdpi.com/1420-3049/23/1/134
+468,antiLeishmanial,doi:10.3390/molecules23010134,468,468,https://www.mdpi.com/1420-3049/23/1/134
+469,antiLeishmanial,doi:10.3390/molecules23010134,469,469,https://www.mdpi.com/1420-3049/23/1/134
+470,antiLeishmanial,doi:10.3390/molecules23010134,470,470,https://www.mdpi.com/1420-3049/23/1/134
+473,antiLeishmanial,doi:10.3390/molecules23010134,473,473,https://www.mdpi.com/1420-3049/23/1/134
+474,antiLeishmanial,doi:10.3390/molecules23010134,474,474,https://www.mdpi.com/1420-3049/23/1/134
+475,antiLeishmanial,doi:10.3390/molecules23010134,475,475,https://www.mdpi.com/1420-3049/23/1/134
+476,antiLeishmanial,doi:10.3390/molecules23010134,476,476,https://www.mdpi.com/1420-3049/23/1/134
+477,antiMalarial,doi:10.3390/molecules23010134,477,477,https://www.mdpi.com/1420-3049/23/1/134
+478,antiMalarial,doi:10.3390/molecules23010134,478,478,https://www.mdpi.com/1420-3049/23/1/134
+479,antiMalarial,doi:10.3390/molecules23010134,479,479,https://www.mdpi.com/1420-3049/23/1/134
+481,antiMalarial,doi:10.3390/molecules23010134,481,481,https://www.mdpi.com/1420-3049/23/1/134
+482,antiMalarial,doi:10.3390/molecules23010134,482,482,https://www.mdpi.com/1420-3049/23/1/134
+483,antiMalarial,doi:10.3390/molecules23010134,483,483,https://www.mdpi.com/1420-3049/23/1/134
+484,antiMalarial,doi:10.3390/molecules23010134,484,484,https://www.mdpi.com/1420-3049/23/1/134
+486,antiParkinson,doi:10.3390/molecules23010134,486,486,https://www.mdpi.com/1420-3049/23/1/134
+487,antiParkinson,doi:10.3390/molecules23010134,487,487,https://www.mdpi.com/1420-3049/23/1/134
+489,antiParkinson,doi:10.3390/molecules23010134,489,489,https://www.mdpi.com/1420-3049/23/1/134
+490,antiParkinson,doi:10.3390/molecules23010134,490,490,https://www.mdpi.com/1420-3049/23/1/134
+491,antiParkinson,doi:10.3390/molecules23010134,491,491,https://www.mdpi.com/1420-3049/23/1/134
+492,antiParkinson,doi:10.3390/molecules23010134,492,492,https://www.mdpi.com/1420-3049/23/1/134
+493_1717,Antimicrobial,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,493_1717,493_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+494_1717,Antimicrobial,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,494_1717,494_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+495_1717,Antimicrobial,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,495_1717,495_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+496_1717,Analgesic,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,496_1717,496_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+497_1717,Analgesic,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,497_1717,497_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+498_1717,Analgesic,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,498_1717,498_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+499_1717,Analgesic,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,499_1717,499_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+500_1717, Anticancer,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,500_1717,500_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+501_1717, Anticancer,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,501_1717,501_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+502_1717, Anticancer,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,502_1717,502_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+503_1717, Anticancer,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,503_1717,503_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+504_1717, Anticancer,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,504_1717,504_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+505_1717,Anticonvulsant,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,505_1717,505_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+506_1717,Antihelmintic,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,506_1717,506_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+507_1717,Antiinflammatory,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,507_1717,507_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+510_1717,Antioxidant,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,510_1717,510_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+511_1717,ACEInhibitors,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,511_1717,511_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+512_1717,ACEInhibitors,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,512_1717,512_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+513_1717,Antiviral,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,513_1717,513_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+514_1717,Antiviral,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,514_1717,514_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+515_1717,Antimycobacterial,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,515_1717,515_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+516_1717,Antimycobacterial,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,516_1717,516_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+517_1717,Antitubercular,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,517_1717,517_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+518_1717,Antitubercular,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,518_1717,518_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+519_1717,Antifungal,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,519_1717,519_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+520_1717,Antifungal,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,520_1717,520_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+9h_A2016,Anticancer BRAF inhibitors,DOI: 10.1039/c6nj03181a,9h_A2016,9h_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+9g_A2016,Anticancer BRAF inhibitors,DOI: 10.1039/c6nj03181a,9g_A2016,9g_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+9i_A2016,Anticancer BRAF inhibitors,DOI: 10.1039/c6nj03181a,9i_A2016,9i_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+9j_A2016,Anticancer BRAF inhibitors,DOI: 10.1039/c6nj03181a,9j_A2016,9j_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+9m_A2016,Anticancer BRAF inhibitors,DOI: 10.1039/c6nj03181a,9m_A2016,9m_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+9n_A2016,Anticancer BRAF inhibitors,DOI: 10.1039/c6nj03181a,9n_A2016,9n_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+9p_A2016,Anticancer BRAF inhibitors,DOI: 10.1039/c6nj03181a,9p_A2016,9p_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+9q_A2016,Anticancer BRAF inhibitors,DOI: 10.1039/c6nj03181a,9q_A2016,9q_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+9r_A2016,Anticancer BRAF inhibitors,DOI: 10.1039/c6nj03181a,9r_A2016,9r_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+9s_A2016,Anticancer BRAF inhibitors,DOI: 10.1039/c6nj03181a,9s_A2016,9s_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+13a_A2016, Antibacterial DNA gyrase inhibitor,DOI: 10.1039/c6nj03181a,13a_A2016,13a_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+13b_A2016, Antibacterial DNA gyrase inhibitor,DOI: 10.1039/c6nj03181a,13b_A2016,13b_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+13c_A2016, Antibacterial DNA gyrase inhibitor,DOI: 10.1039/c6nj03181a,13c_A2016,13c_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+13d_A2016, Antibacterial DNA gyrase inhibitor,DOI: 10.1039/c6nj03181a,13d_A2016,13d_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+13e_A2016, Antibacterial DNA gyrase inhibitor,DOI: 10.1039/c6nj03181a,13e_A2016,13e_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+13f_A2016, Antibacterial DNA gyrase inhibitor,DOI: 10.1039/c6nj03181a,13f_A2016,13f_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+13g_A2016, Antibacterial DNA gyrase inhibitor,DOI: 10.1039/c6nj03181a,13g_A2016,13g_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+13h_A2016, Antibacterial DNA gyrase inhibitor,DOI: 10.1039/c6nj03181a,13h_A2016,13h_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+13i_A2016, Antibacterial DNA gyrase inhibitor,DOI: 10.1039/c6nj03181a,13i_A2016,13i_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+13j_A2016, Antibacterial DNA gyrase inhibitor,DOI: 10.1039/c6nj03181a,13j_A2016,13j_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+13k_A2016, Antibacterial DNA gyrase inhibitor,DOI: 10.1039/c6nj03181a,13k_A2016,13k_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+13l_A2016, Antibacterial DNA gyrase inhibitor,DOI: 10.1039/c6nj03181a,13l_A2016,13l_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+13m_A2016, Antibacterial DNA gyrase inhibitor,DOI: 10.1039/c6nj03181a,13m_A2016,13m_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+13n_A2016, Antibacterial DNA gyrase inhibitor,DOI: 10.1039/c6nj03181a,13n_A2016,13n_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+13o_A2016, Antibacterial DNA gyrase inhibitor,DOI: 10.1039/c6nj03181a,13o_A2016,13o_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+13p_A2016, Antibacterial DNA gyrase inhibitor,DOI: 10.1039/c6nj03181a,13p_A2016,13p_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+13q_A2016, Antibacterial DNA gyrase inhibitor,DOI: 10.1039/c6nj03181a,13q_A2016,13q_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+13r_A2016, Antibacterial DNA gyrase inhibitor,DOI: 10.1039/c6nj03181a,13r_A2016,13r_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+13s_A2016, Antibacterial DNA gyrase inhibitor,DOI: 10.1039/c6nj03181a,13s_A2016,13s_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+13t_A2016, Antibacterial DNA gyrase inhibitor,DOI: 10.1039/c6nj03181a,13t_A2016,13t_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+97a_A2016,Cyclin-dependent kinase (CDK) inhibitors,DOI: 10.1039/c6nj03181a,97a_A2016,97a_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+97c_A2016,Cyclin-dependent kinase (CDK) inhibitors,DOI: 10.1039/c6nj03181a,97c_A2016,97c_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+97d_A2016,Cyclin-dependent kinase (CDK) inhibitors,DOI: 10.1039/c6nj03181a,97d_A2016,97d_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+97e_A2016,Cyclin-dependent kinase (CDK) inhibitors,DOI: 10.1039/c6nj03181a,97e_A2016,97e_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+97g_A2016,Cyclin-dependent kinase (CDK) inhibitors,DOI: 10.1039/c6nj03181a,97g_A2016,97g_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+98a_A2016,Cyclin-dependent kinase (CDK) inhibitors,DOI: 10.1039/c6nj03181a,98a_A2016,98a_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+98b_A2016,Cyclin-dependent kinase (CDK) inhibitors,DOI: 10.1039/c6nj03181a,98b_A2016,98b_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+98c_A2016,Cyclin-dependent kinase (CDK) inhibitors,DOI: 10.1039/c6nj03181a,98c_A2016,98c_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+98d_A2016,Cyclin-dependent kinase (CDK) inhibitors,DOI: 10.1039/c6nj03181a,98d_A2016,98d_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+98e_A2016,Cyclin-dependent kinase (CDK) inhibitors,DOI: 10.1039/c6nj03181a,98e_A2016,98e_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+98f_A2016,Cyclin-dependent kinase (CDK) inhibitors,DOI: 10.1039/c6nj03181a,98f_A2016,98f_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+97b_A2016,Cyclin-dependent kinase (CDK) inhibitors,DOI: 10.1039/c6nj03181a,97b_A2016,97b_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+97f_A2016,Cyclin-dependent kinase (CDK) inhibitors,DOI: 10.1039/c6nj03181a,97f_A2016,97f_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+98h_A2016,Cyclin-dependent kinase (CDK) inhibitors,DOI: 10.1039/c6nj03181a,98h_A2016,98h_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+98i_A2016,Cyclin-dependent kinase (CDK) inhibitors,DOI: 10.1039/c6nj03181a,98i_A2016,98i_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+98l_A2016,Cyclin-dependent kinase (CDK) inhibitors,DOI: 10.1039/c6nj03181a,98l_A2016,98l_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+98m_A2016,Cyclin-dependent kinase (CDK) inhibitors,DOI: 10.1039/c6nj03181a,98m_A2016,98m_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+94a_A2016,Analgesics,DOI: 10.1039/c6nj03181a,94a_A2016,94a_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+94b_A2016,Analgesics,DOI: 10.1039/c6nj03181a,94b_A2016,94b_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+94c_A2016,Analgesics,DOI: 10.1039/c6nj03181a,94c_A2016,94c_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+94d_A2016,Analgesics,DOI: 10.1039/c6nj03181a,94d_A2016,94d_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+94e_A2016,Analgesics,DOI: 10.1039/c6nj03181a,94e_A2016,94e_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+94f_A2016,Analgesics,DOI: 10.1039/c6nj03181a,94f_A2016,94f_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+95a_A2016,Analgesics,DOI: 10.1039/c6nj03181a,95a_A2016,95a_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+95b_A2016,Analgesics,DOI: 10.1039/c6nj03181a,95b_A2016,95b_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+95c_A2016,Analgesics,DOI: 10.1039/c6nj03181a,95c_A2016,95c_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+95d_A2016,Analgesics,DOI: 10.1039/c6nj03181a,95d_A2016,95d_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+95e_A2016,Analgesics,DOI: 10.1039/c6nj03181a,95e_A2016,95e_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+95f_A2016,Analgesics,DOI: 10.1039/c6nj03181a,95f_A2016,95f_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+96a_A2016,Analgesics,DOI: 10.1039/c6nj03181a,96a_A2016,96a_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+96c_A2016,Analgesics,DOI: 10.1039/c6nj03181a,96c_A2016,96c_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+96b_A2016,Analgesics,DOI: 10.1039/c6nj03181a,96b_A2016,96b_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+96d_A2016,Analgesics,DOI: 10.1039/c6nj03181a,96d_A2016,96d_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+96e_A2016,Analgesics,DOI: 10.1039/c6nj03181a,96e_A2016,96e_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+108_A2016,Anticancer,DOI: 10.1039/c6nj03181a,108_A2016,108_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+109_A2016,Anticancer,DOI: 10.1039/c6nj03181a,109_A2016,109_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+110_A2016,Anticancer,DOI: 10.1039/c6nj03181a,110_A2016,110_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+112a_A2016,IRAK4 inhibitors,DOI: 10.1039/c6nj03181a,112a_A2016,112a_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+112b_A2016,IRAK4 inhibitors,DOI: 10.1039/c6nj03181a,112b_A2016,112b_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+112c_A2016,IRAK4 inhibitors,DOI: 10.1039/c6nj03181a,112c_A2016,112c_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+113a_A2016,IRAK4 inhibitors,DOI: 10.1039/c6nj03181a,113a_A2016,113a_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+113b_A2016,IRAK4 inhibitors,DOI: 10.1039/c6nj03181a,113b_A2016,113b_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+113c_A2016,IRAK4 inhibitors,DOI: 10.1039/c6nj03181a,113c_A2016,113c_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+113d_A2016,IRAK4 inhibitors,DOI: 10.1039/c6nj03181a,113d_A2016,113d_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+117a_A2016,Antimicrobial,DOI: 10.1039/c6nj03181a,117a_A2016,117a_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+117b_A2016,Antimicrobial,DOI: 10.1039/c6nj03181a,117b_A2016,117b_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+117c_A2016,Antimicrobial,DOI: 10.1039/c6nj03181a,117c_A2016,117c_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+117d_A2016,Antimicrobial,DOI: 10.1039/c6nj03181a,117d_A2016,117d_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+118a_A2016,Antimicrobial,DOI: 10.1039/c6nj03181a,118a_A2016,118a_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+118b_A2016,Antimicrobial,DOI: 10.1039/c6nj03181a,118b_A2016,118b_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+118c_A2016,Antimicrobial,DOI: 10.1039/c6nj03181a,118c_A2016,118c_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+118d_A2016,Antimicrobial,DOI: 10.1039/c6nj03181a,118d_A2016,118d_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+118e_A2016,Antimicrobial,DOI: 10.1039/c6nj03181a,118e_A2016,118e_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+118f_A2016,Antimicrobial,DOI: 10.1039/c6nj03181a,118f_A2016,118f_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+118g_A2016,Antimicrobial,DOI: 10.1039/c6nj03181a,118g_A2016,118g_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+118h_A2016,Antimicrobial,DOI: 10.1039/c6nj03181a,118h_A2016,118h_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+118i_A2016,Antimicrobial,DOI: 10.1039/c6nj03181a,118i_A2016,118i_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+118j_A2016,Antimicrobial,DOI: 10.1039/c6nj03181a,118j_A2016,118j_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+118k_A2016,Antimicrobial,DOI: 10.1039/c6nj03181a,118k_A2016,118k_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+118l_A2016,Antimicrobial,DOI: 10.1039/c6nj03181a,118l_A2016,118l_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+118m_A2016,Antimicrobial,DOI: 10.1039/c6nj03181a,118m_A2016,118m_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+118n_A2016,Antimicrobial,DOI: 10.1039/c6nj03181a,118n_A2016,118n_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+118o_A2016,Antimicrobial,DOI: 10.1039/c6nj03181a,118o_A2016,118o_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+118p_A2016,Antimicrobial,DOI: 10.1039/c6nj03181a,118p_A2016,118p_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+3_m2021,"Antibacterial, Antifungal, Antitumor",doi.org/10.1002/slct.202004304,3_m2021,3_m2021,https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/slct.202004304
+5a_m2021,"Antibacterial, Antifungal, Antitumor",doi.org/10.1002/slct.202004304,5a_m2021,5a_m2021,https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/slct.202004304
+5b_m2021,"Antibacterial, Antifungal, Antitumor",doi.org/10.1002/slct.202004304,5b_m2021,5b_m2021,https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/slct.202004304
+5c_m2021,"Antibacterial, Antifungal, Antitumor",doi.org/10.1002/slct.202004304,5c_m2021,5c_m2021,https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/slct.202004304
+8a_m2021,"Antibacterial, Antifungal, Antitumor",doi.org/10.1002/slct.202004304,8a_m2021,8a_m2021,https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/slct.202004304
+9a_m2021,"Antibacterial, Antifungal, Antitumor",doi.org/10.1002/slct.202004304,9a_m2021,9a_m2021,https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/slct.202004304
+5a_p2021,"Antitumor,  EFGR inhibitor",DOI: 10.1039/d1nj02419a,5a_p2021,5a_p2021,https://pubs.rsc.org/en/content/articlelanding/2021/nj/d1nj02419a
+5b_p2021,"Antitumor,  EFGR inhibitor",DOI: 10.1039/d1nj02419a,5b_p2021,5b_p2021,https://pubs.rsc.org/en/content/articlelanding/2021/nj/d1nj02419a
+5c_p2021,"Antitumor,  EFGR inhibitor",DOI: 10.1039/d1nj02419a,5c_p2021,5c_p2021,https://pubs.rsc.org/en/content/articlelanding/2021/nj/d1nj02419a
+5d_p2021,"Antitumor,  EFGR inhibitor",DOI: 10.1039/d1nj02419a,5d_p2021,5d_p2021,https://pubs.rsc.org/en/content/articlelanding/2021/nj/d1nj02419a
+5e_p2021,"Antitumor,  EFGR inhibitor",DOI: 10.1039/d1nj02419a,5e_p2021,5e_p2021,https://pubs.rsc.org/en/content/articlelanding/2021/nj/d1nj02419a
+5f_p2021,"Antitumor,  EFGR inhibitor",DOI: 10.1039/d1nj02419a,5f_p2021,5f_p2021,https://pubs.rsc.org/en/content/articlelanding/2021/nj/d1nj02419a
+5g_p2021,"Antitumor,  EFGR inhibitor",DOI: 10.1039/d1nj02419a,5g_p2021,5g_p2021,https://pubs.rsc.org/en/content/articlelanding/2021/nj/d1nj02419a
+5h_p2021,"Antitumor,  EFGR inhibitor",DOI: 10.1039/d1nj02419a,5h_p2021,5h_p2021,https://pubs.rsc.org/en/content/articlelanding/2021/nj/d1nj02419a
+5i_p2021,"Antitumor,  EFGR inhibitor",DOI: 10.1039/d1nj02419a,5i_p2021,5i_p2021,https://pubs.rsc.org/en/content/articlelanding/2021/nj/d1nj02419a
+1f_2020,"Anticancer, EGFR and VEGFR-2 inhibitor",doi: 10.3389/fchem.2019.00917,1f_2020,1f_2020,https://www.frontiersin.org/articles/10.3389/fchem.2019.00917/full
+2f_2020,"Anticancer, EGFR and VEGFR-2 inhibitor",doi: 10.3389/fchem.2019.00917,2f_2020,2f_2020,https://www.frontiersin.org/articles/10.3389/fchem.2019.00917/full
+3f_2020,"Anticancer, EGFR and VEGFR-2 inhibitor",doi: 10.3389/fchem.2019.00917,3f_2020,3f_2020,https://www.frontiersin.org/articles/10.3389/fchem.2019.00917/full
+4f_2020,"Anticancer, EGFR and VEGFR-2 inhibitor",doi: 10.3389/fchem.2019.00917,4f_2020,4f_2020,https://www.frontiersin.org/articles/10.3389/fchem.2019.00917/full
+5f_2020,"Anticancer, EGFR and VEGFR-2 inhibitor",doi: 10.3389/fchem.2019.00917,5f_2020,5f_2020,https://www.frontiersin.org/articles/10.3389/fchem.2019.00917/full
+6f_2020,"Anticancer, EGFR and VEGFR-2 inhibitor",doi: 10.3389/fchem.2019.00917,6f_2020,6f_2020,https://www.frontiersin.org/articles/10.3389/fchem.2019.00917/full
+7f_2020,"Anticancer, EGFR and VEGFR-2 inhibitor",doi: 10.3389/fchem.2019.00917,7f_2020,7f_2020,https://www.frontiersin.org/articles/10.3389/fchem.2019.00917/full
+8f_2020,"Anticancer, EGFR and VEGFR-2 inhibitor",doi: 10.3389/fchem.2019.00917,8f_2020,8f_2020,https://www.frontiersin.org/articles/10.3389/fchem.2019.00917/full
+9f_2020,"Anticancer, EGFR and VEGFR-2 inhibitor",doi: 10.3389/fchem.2019.00917,9f_2020,9f_2020,https://www.frontiersin.org/articles/10.3389/fchem.2019.00917/full
+11f_2020,"Anticancer, EGFR and VEGFR-2 inhibitor",doi: 10.3389/fchem.2019.00917,11f_2020,11f_2020,https://www.frontiersin.org/articles/10.3389/fchem.2019.00917/full
+12f_2020,"Anticancer, EGFR and VEGFR-2 inhibitor",doi: 10.3389/fchem.2019.00917,12f_2020,12f_2020,https://www.frontiersin.org/articles/10.3389/fchem.2019.00917/full
+13f_2020,"Anticancer, EGFR and VEGFR-2 inhibitor",doi: 10.3389/fchem.2019.00917,13f_2020,13f_2020,https://www.frontiersin.org/articles/10.3389/fchem.2019.00917/full
+14f_2020,"Anticancer, EGFR and VEGFR-2 inhibitor",doi: 10.3389/fchem.2019.00917,14f_2020,14f_2020,https://www.frontiersin.org/articles/10.3389/fchem.2019.00917/full
+15f_2020,"Anticancer, EGFR and VEGFR-2 inhibitor",doi: 10.3389/fchem.2019.00917,15f_2020,15f_2020,https://www.frontiersin.org/articles/10.3389/fchem.2019.00917/full
+30a_2020,Neuroprotective,http://dx.doi.org/10.47583/ijpsrr.2020.v65i01.030,30a_2020,30a_2020,https://globalresearchonline.net/journalcontents/v65-1/30.pdf
+30b_2020,Neuroprotective,http://dx.doi.org/10.47583/ijpsrr.2020.v65i01.030,30b_2020,30b_2020,https://globalresearchonline.net/journalcontents/v65-1/30.pdf
+30c_2020,Neuroprotective,http://dx.doi.org/10.47583/ijpsrr.2020.v65i01.030,30c_2020,30c_2020,https://globalresearchonline.net/journalcontents/v65-1/30.pdf
+30d_2020,Neuroprotective,http://dx.doi.org/10.47583/ijpsrr.2020.v65i01.030,30d_2020,30d_2020,https://globalresearchonline.net/journalcontents/v65-1/30.pdf
+30e_2020,Neuroprotective,http://dx.doi.org/10.47583/ijpsrr.2020.v65i01.030,30e_2020,30e_2020,https://globalresearchonline.net/journalcontents/v65-1/30.pdf
+30f_2020,Neuroprotective,http://dx.doi.org/10.47583/ijpsrr.2020.v65i01.030,30f_2020,30f_2020,https://globalresearchonline.net/journalcontents/v65-1/30.pdf
+30g_2020,Neuroprotective,http://dx.doi.org/10.47583/ijpsrr.2020.v65i01.030,30g_2020,30g_2020,https://globalresearchonline.net/journalcontents/v65-1/30.pdf
+P3C,Anticancer,https://doi.org/10.3390/cells11020254,P3C,P3C,https://www.mdpi.com/2073-4409/11/2/254
+12am_2022,Antibacterial,doi.org/10.3390/molecules27154723,12am_2022,12am_2022,https://www.mdpi.com/1420-3049/27/15/4723
+25a_m2022,"Antibacterial, Anticancer",doi.org/10.3390/molecules27154723,25a_m2022,25a_m2022,https://www.mdpi.com/1420-3049/27/15/4723
+25b_m2022,"Antibacterial, Anticancer",doi.org/10.3390/molecules27154723,25b_m2022,25b_m2022,https://www.mdpi.com/1420-3049/27/15/4723
+25c_m2022,"Antibacterial, Anticancer",doi.org/10.3390/molecules27154723,25c_m2022,25c_m2022,https://www.mdpi.com/1420-3049/27/15/4723
+25d_m2022,"Antibacterial, Anticancer",doi.org/10.3390/molecules27154723,25d_m2022,25d_m2022,https://www.mdpi.com/1420-3049/27/15/4723
+25e_m2022,"Antibacterial, Anticancer",doi.org/10.3390/molecules27154723,25e_m2022,25e_m2022,https://www.mdpi.com/1420-3049/27/15/4723
+25g_m2022,"Antibacterial, Anticancer",doi.org/10.3390/molecules27154723,25g_m2022,25g_m2022,https://www.mdpi.com/1420-3049/27/15/4723
+25h_m2022,"Antibacterial, Anticancer",doi.org/10.3390/molecules27154723,25h_m2022,25h_m2022,https://www.mdpi.com/1420-3049/27/15/4723
+25i_m2022,"Antibacterial, Anticancer",doi.org/10.3390/molecules27154723,25i_m2022,25i_m2022,https://www.mdpi.com/1420-3049/27/15/4723
+25j_m2022,"Antibacterial, Anticancer",doi.org/10.3390/molecules27154723,25j_m2022,25j_m2022,https://www.mdpi.com/1420-3049/27/15/4723
+25k_m2022,"Antibacterial, Anticancer",doi.org/10.3390/molecules27154723,25k_m2022,25k_m2022,https://www.mdpi.com/1420-3049/27/15/4723
+25l_m2022,"Antibacterial, Anticancer",doi.org/10.3390/molecules27154723,25l_m2022,25l_m2022,https://www.mdpi.com/1420-3049/27/15/4723
+25m_m2022,"Antibacterial, Anticancer",doi.org/10.3390/molecules27154723,25m_m2022,25m_m2022,https://www.mdpi.com/1420-3049/27/15/4723
+25n_m2022,"Antibacterial, Anticancer",doi.org/10.3390/molecules27154723,25n_m2022,25n_m2022,https://www.mdpi.com/1420-3049/27/15/4723
+25o_m2022,"Antibacterial, Anticancer",doi.org/10.3390/molecules27154723,25o_m2022,25o_m2022,https://www.mdpi.com/1420-3049/27/15/4723
+34a_m2022,Antimicrobial,doi.org/10.3390/molecules27154723,34a_m2022,34a_m2022,https://www.mdpi.com/1420-3049/27/15/4723
+153a_m2022,Antimycobacterial,doi.org/10.3390/molecules27154723,153a_m2022,153a_m2022,https://www.mdpi.com/1420-3049/27/15/4723
+153b_m2022,Antimycobacterial,doi.org/10.3390/molecules27154723,153b_m2022,153b_m2022,https://www.mdpi.com/1420-3049/27/15/4723
+153c_m2022,Antimycobacterial,doi.org/10.3390/molecules27154723,153c_m2022,153c_m2022,https://www.mdpi.com/1420-3049/27/15/4723
+153d_m2022,Antimycobacterial,doi.org/10.3390/molecules27154723,153d_m2022,153d_m2022,https://www.mdpi.com/1420-3049/27/15/4723
+153e_m2022,Antimycobacterial,doi.org/10.3390/molecules27154723,153e_m2022,153e_m2022,https://www.mdpi.com/1420-3049/27/15/4723
+113a_2019,"Antifungal, Antibacterial",https://doi.org/10.1007/s12039-019-1646-1,113a_2019,113a_2019,https://link.springer.com/article/10.1007/s12039-019-1646-1
+113b_2019,"Antifungal, Antibacterial",https://doi.org/10.1007/s12039-019-1646-1,113b_2019,113b_2019,https://link.springer.com/article/10.1007/s12039-019-1646-1
+113c_2019,"Antifungal, Antibacterial",https://doi.org/10.1007/s12039-019-1646-1,113c_2019,113c_2019,https://link.springer.com/article/10.1007/s12039-019-1646-1
+114a_2019,Antibacterial,https://doi.org/10.1007/s12039-019-1646-1,114a_2019,114a_2019,https://link.springer.com/article/10.1007/s12039-019-1646-1
+114b_2019,Antibacterial,https://doi.org/10.1007/s12039-019-1646-1,114b_2019,114b_2019,https://link.springer.com/article/10.1007/s12039-019-1646-1
+114c_2019,Antibacterial,https://doi.org/10.1007/s12039-019-1646-1,114c_2019,114c_2019,https://link.springer.com/article/10.1007/s12039-019-1646-1
+114d_2019,Antibacterial,https://doi.org/10.1007/s12039-019-1646-1,114d_2019,114d_2019,https://link.springer.com/article/10.1007/s12039-019-1646-1
+114e_2019,Antibacterial,https://doi.org/10.1007/s12039-019-1646-1,114e_2019,114e_2019,https://link.springer.com/article/10.1007/s12039-019-1646-1
+121_2019,Antiinflammatory,https://doi.org/10.1007/s12039-019-1646-1,121_2019,121_2019,https://link.springer.com/article/10.1007/s12039-019-1646-1
+122_2019,Antiinflammatory,https://doi.org/10.1007/s12039-019-1646-1,122_2019,122_2019,https://link.springer.com/article/10.1007/s12039-019-1646-1
+123_2019,Antiinflammatory,https://doi.org/10.1007/s12039-019-1646-1,123_2019,123_2019,https://link.springer.com/article/10.1007/s12039-019-1646-1
+120a_2019,Antiinflammatory,https://doi.org/10.1007/s12039-019-1646-1,120a_2019,120a_2019,https://link.springer.com/article/10.1007/s12039-019-1646-1
+120b_2019,Antiinflammatory,https://doi.org/10.1007/s12039-019-1646-1,120b_2019,120b_2019,https://link.springer.com/article/10.1007/s12039-019-1646-1
+120c_2019,Antiinflammatory,https://doi.org/10.1007/s12039-019-1646-1,120c_2019,120c_2019,https://link.springer.com/article/10.1007/s12039-019-1646-1
+120d_2019,Antiinflammatory,https://doi.org/10.1007/s12039-019-1646-1,120d_2019,120d_2019,https://link.springer.com/article/10.1007/s12039-019-1646-1
+120e_2019,Antiinflammatory,https://doi.org/10.1007/s12039-019-1646-1,120e_2019,120e_2019,https://link.springer.com/article/10.1007/s12039-019-1646-1
+120f_2019,Antiinflammatory,https://doi.org/10.1007/s12039-019-1646-1,120f_2019,120f_2019,https://link.springer.com/article/10.1007/s12039-019-1646-1
+120g_2019,Antiinflammatory,https://doi.org/10.1007/s12039-019-1646-1,120g_2019,120g_2019,https://link.springer.com/article/10.1007/s12039-019-1646-1
+120h_2019,Antiinflammatory,https://doi.org/10.1007/s12039-019-1646-1,120h_2019,120h_2019,https://link.springer.com/article/10.1007/s12039-019-1646-1
+120i_2019,Antiinflammatory,https://doi.org/10.1007/s12039-019-1646-1,120i_2019,120i_2019,https://link.springer.com/article/10.1007/s12039-019-1646-1
+120j_2019,Antiinflammatory,https://doi.org/10.1007/s12039-019-1646-1,120j_2019,120j_2019,https://link.springer.com/article/10.1007/s12039-019-1646-1
+120k_2019,Antiinflammatory,https://doi.org/10.1007/s12039-019-1646-1,120k_2019,120k_2019,https://link.springer.com/article/10.1007/s12039-019-1646-1
+120l_2019,Antiinflammatory,https://doi.org/10.1007/s12039-019-1646-1,120l_2019,120l_2019,https://link.springer.com/article/10.1007/s12039-019-1646-1
+AD732_e2022,Antiinflammatory,https://doi.org/10.1016/j.ejps.2021.106080,AD732_e2022,AD732_e2022,https://www.sciencedirect.com/science/article/pii/S0928098721003821
+j_1063,AntiLiver fibrosis,https://doi.org/10.1016/j.bioorg.2022.105715,j_1063,j_1063,https://www.sciencedirect.com/science/article/abs/pii/S0045206822001201?via%3Dihub
+za,Anticancer,https://doi.org/10.1016/j.bmcl.2022.128552,za,za,https://www.sciencedirect.com/science/article/abs/pii/S0960894X22000282?via%3Dihub
+471,antiLeishmanial,doi:10.3390/molecules23010134,471,471,https://www.mdpi.com/1420-3049/23/1/134
+349,antitubercular,doi:10.3390/molecules23010134,349,349,https://www.mdpi.com/1420-3049/23/1/134
+303,Antiinflammatory and analgesic,doi:10.3390/molecules23010134,303,303,https://www.mdpi.com/1420-3049/23/1/134
+176,Antimicrobial,doi:10.3390/molecules23010134,176,176,https://www.mdpi.com/1420-3049/23/1/134
+288,Anticancer,doi:10.3390/molecules23010134,288,288,https://www.mdpi.com/1420-3049/23/1/134
+289,Anticancer,doi:10.3390/molecules23010134,289,289,https://www.mdpi.com/1420-3049/23/1/134
+317,Antiinflammatory and analgesic,doi:10.3390/molecules23010134,317,317,https://www.mdpi.com/1420-3049/23/1/134
+318,Antiinflammatory and analgesic,doi:10.3390/molecules23010134,318,318,https://www.mdpi.com/1420-3049/23/1/134
+165,Antibacterial,doi:10.3390/molecules23010134,165,165,https://www.mdpi.com/1420-3049/23/1/134
+166,Antibacterial,doi:10.3390/molecules23010134,166,166,https://www.mdpi.com/1420-3049/23/1/134
+169,Antimicrobial,doi:10.3390/molecules23010134,169,169,https://www.mdpi.com/1420-3049/23/1/134
+170,Antimicrobial,doi:10.3390/molecules23010134,170,170,https://www.mdpi.com/1420-3049/23/1/134
+167,Antimicrobial,doi:10.3390/molecules23010134,167,167,https://www.mdpi.com/1420-3049/23/1/134
+168,Antimicrobial,doi:10.3390/molecules23010134,168,168,https://www.mdpi.com/1420-3049/23/1/134
+462,antiDiabetic,doi:10.3390/molecules23010134,462,462,https://www.mdpi.com/1420-3049/23/1/134
+463,antiDiabetic,doi:10.3390/molecules23010134,463,463,https://www.mdpi.com/1420-3049/23/1/134
+9e_A2016,Anticancer BRAF inhibitors,DOI: 10.1039/c6nj03181a,9e_A2016,9e_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+9f_A2016,Anticancer BRAF inhibitors,DOI: 10.1039/c6nj03181a,9f_A2016,9f_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+236,Anticancer,doi:10.3390/molecules23010134,236,236,https://www.mdpi.com/1420-3049/23/1/134
+237,Anticancer,doi:10.3390/molecules23010134,237,237,https://www.mdpi.com/1420-3049/23/1/134
+9a_A2016,Anticancer BRAF inhibitors,DOI: 10.1039/c6nj03181a,9a_A2016,9a_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+9b_A2016,Anticancer BRAF inhibitors,DOI: 10.1039/c6nj03181a,9b_A2016,9b_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+319,Antiinflammatory and analgesic,doi:10.3390/molecules23010134,319,319,https://www.mdpi.com/1420-3049/23/1/134
+320,Antiinflammatory and analgesic,doi:10.3390/molecules23010134,320,320,https://www.mdpi.com/1420-3049/23/1/134
+304,Antiinflammatory and analgesic,doi:10.3390/molecules23010134,304,304,https://www.mdpi.com/1420-3049/23/1/134
+305,Antiinflammatory and analgesic,doi:10.3390/molecules23010134,305,305,https://www.mdpi.com/1420-3049/23/1/134
+328,Antiinflammatory,doi:10.3390/molecules23010134,328,328,https://www.mdpi.com/1420-3049/23/1/134
+329,Antiinflammatory,doi:10.3390/molecules23010134,329,329,https://www.mdpi.com/1420-3049/23/1/134
+311,Antiinflammatory and analgesic,doi:10.3390/molecules23010134,311,311,https://www.mdpi.com/1420-3049/23/1/134
+312,Antiinflammatory and analgesic,doi:10.3390/molecules23010134,312,312,https://www.mdpi.com/1420-3049/23/1/134
+9k_A2016,Anticancer BRAF inhibitors,DOI: 10.1039/c6nj03181a,9k_A2016,9k_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+9l_A2016,Anticancer BRAF inhibitors,DOI: 10.1039/c6nj03181a,9l_A2016,9l_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+9c_A2016,Anticancer BRAF inhibitors,DOI: 10.1039/c6nj03181a,9c_A2016,9c_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+9d_A2016,Anticancer BRAF inhibitors,DOI: 10.1039/c6nj03181a,9d_A2016,9d_A2016,https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03181a
+508_1717,Antiinflammatory,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,508_1717,508_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+509_1717,Antiinflammatory,http://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf,509_1717,509_1717,https://www.jpbs-online.com/old/uploads/35/1717_pdf.pdf
+313,Antiinflammatory and analgesic,doi:10.3390/molecules23010134,313,313,https://www.mdpi.com/1420-3049/23/1/134
+314,Antiinflammatory and analgesic,doi:10.3390/molecules23010134,314,314,https://www.mdpi.com/1420-3049/23/1/134
+368,antitubercular,doi:10.3390/molecules23010134,368,368,https://www.mdpi.com/1420-3049/23/1/134
+369,antitubercular,doi:10.3390/molecules23010134,369,369,https://www.mdpi.com/1420-3049/23/1/134
+370,antitubercular,doi:10.3390/molecules23010134,370,370,https://www.mdpi.com/1420-3049/23/1/134
+371,antitubercular,doi:10.3390/molecules23010134,371,371,https://www.mdpi.com/1420-3049/23/1/134
+372,antitubercular,doi:10.3390/molecules23010134,372,372,https://www.mdpi.com/1420-3049/23/1/134
+441,antiDiabetic,doi:10.3390/molecules23010134,441,441,https://www.mdpi.com/1420-3049/23/1/134
+443,antiDiabetic,doi:10.3390/molecules23010134,443,443,https://www.mdpi.com/1420-3049/23/1/134
+zb,AntiIinflammatory,DOI: 10.4155/fmc-2018-0548,zb,zb,https://www.future-science.com/doi/10.4155/fmc-2018-0548?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed
+4a_cmr2021,Antiviral COVID19,DOI:10.4103/cmrp.cmrp_10_20,4a_cmr2021,4a_cmr2021,https://www.cmrpjournal.org/article.asp?issn=2352-0817;year=2021;volume=11;issue=5;spage=206;epage=210;aulast=Yallappa
+4b_cmr2021,Antiviral COVID19,DOI:10.4103/cmrp.cmrp_10_20,4b_cmr2021,4b_cmr2021,https://www.cmrpjournal.org/article.asp?issn=2352-0817;year=2021;volume=11;issue=5;spage=206;epage=210;aulast=Yallappa
+4c_cmr2021,Antiviral COVID19,DOI:10.4103/cmrp.cmrp_10_20,4c_cmr2021,4c_cmr2021,https://www.cmrpjournal.org/article.asp?issn=2352-0817;year=2021;volume=11;issue=5;spage=206;epage=210;aulast=Yallappa
+4d_cmr2021,Antiviral COVID19,DOI:10.4103/cmrp.cmrp_10_20,4d_cmr2021,4d_cmr2021,https://www.cmrpjournal.org/article.asp?issn=2352-0817;year=2021;volume=11;issue=5;spage=206;epage=210;aulast=Yallappa
+4e_cmr2021,Antiviral COVID19,DOI:10.4103/cmrp.cmrp_10_20,4e_cmr2021,4e_cmr2021,https://www.cmrpjournal.org/article.asp?issn=2352-0817;year=2021;volume=11;issue=5;spage=206;epage=210;aulast=Yallappa
+4f_cmr2021,Antiviral COVID19,DOI:10.4103/cmrp.cmrp_10_20,4f_cmr2021,4f_cmr2021,https://www.cmrpjournal.org/article.asp?issn=2352-0817;year=2021;volume=11;issue=5;spage=206;epage=210;aulast=Yallappa
+4g_cmr2021,Antiviral COVID19,DOI:10.4103/cmrp.cmrp_10_20,4g_cmr2021,4g_cmr2021,https://www.cmrpjournal.org/article.asp?issn=2352-0817;year=2021;volume=11;issue=5;spage=206;epage=210;aulast=Yallappa
+4h_cmr2021,Antiviral COVID19,DOI:10.4103/cmrp.cmrp_10_20,4h_cmr2021,4h_cmr2021,https://www.cmrpjournal.org/article.asp?issn=2352-0817;year=2021;volume=11;issue=5;spage=206;epage=210;aulast=Yallappa
+4i_cmr2021,Antiviral COVID19,DOI:10.4103/cmrp.cmrp_10_20,4i_cmr2021,4i_cmr2021,https://www.cmrpjournal.org/article.asp?issn=2352-0817;year=2021;volume=11;issue=5;spage=206;epage=210;aulast=Yallappa
+4j_cmr2021,Antiviral COVID19,DOI:10.4103/cmrp.cmrp_10_20,4j_cmr2021,4j_cmr2021,https://www.cmrpjournal.org/article.asp?issn=2352-0817;year=2021;volume=11;issue=5;spage=206;epage=210;aulast=Yallappa
+km1,Antiinflammatory,http://dx.doi.org/10.22270/jddt.v9i3.2736,km1,km1,https://jddtonline.info/index.php/jddt/article/view/2736
+km2,Antiinflammatory,http://dx.doi.org/10.22270/jddt.v9i3.2736,km2,km2,https://jddtonline.info/index.php/jddt/article/view/2736
+km3,Antiinflammatory,http://dx.doi.org/10.22270/jddt.v9i3.2736,km3,km3,https://jddtonline.info/index.php/jddt/article/view/2736
+km4,Antiinflammatory,http://dx.doi.org/10.22270/jddt.v9i3.2736,km4,km4,https://jddtonline.info/index.php/jddt/article/view/2736
+km5,Antiinflammatory,http://dx.doi.org/10.22270/jddt.v9i3.2736,km5,km5,https://jddtonline.info/index.php/jddt/article/view/2736
+km6,Antiinflammatory,http://dx.doi.org/10.22270/jddt.v9i3.2736,km6,km6,https://jddtonline.info/index.php/jddt/article/view/2736
+km7,Antiinflammatory,http://dx.doi.org/10.22270/jddt.v9i3.2736,km7,km7,https://jddtonline.info/index.php/jddt/article/view/2736
+km8,Antiinflammatory,http://dx.doi.org/10.22270/jddt.v9i3.2736,km8,km8,https://jddtonline.info/index.php/jddt/article/view/2736
+bdpma_np2007,Anticancer,https://doi.org/10.1080/14786410600921441,bdpma_np2007,bdpma_np2007,https://www.tandfonline.com/doi/abs/10.1080/14786410600921441?journalCode=gnpl20
+tdpmpp_np2007,Anticancer,http://dx.doi.org/10.1080/14786410600921441,tdpmpp_np2007,tdpmpp_np2007,https://www.tandfonline.com/doi/abs/10.1080/14786410600921441?journalCode=gnpl20
+tdpmppd_np2007,Anticancer,http://dx.doi.org/10.1080/14786410600921441,tdpmppd_np2007,tdpmppd_np2007,https://www.tandfonline.com/doi/abs/10.1080/14786410600921441?journalCode=gnpl20
+iop_4,Antitumor,doi:10.1088/1742-6596/1853/1/012059,iop_4,iop_4,https://iopscience.iop.org/article/10.1088/1742-6596/1853/1/012059/pdf
+iop_5,Antitumor,doi:10.1088/1742-6596/1853/1/012059,iop_5,iop_5,https://iopscience.iop.org/article/10.1088/1742-6596/1853/1/012059/pdf
+iop_6,Antitumor,doi:10.1088/1742-6596/1853/1/012059,iop_6,iop_6,https://iopscience.iop.org/article/10.1088/1742-6596/1853/1/012059/pdf
+iop_7,Antitumor,doi:10.1088/1742-6596/1853/1/012059,iop_7,iop_7,https://iopscience.iop.org/article/10.1088/1742-6596/1853/1/012059/pdf
+iop_8,"Antiinflammatory, antiviral",doi:10.1088/1742-6596/1853/1/012059,iop_8,iop_8,https://iopscience.iop.org/article/10.1088/1742-6596/1853/1/012059/pdf
+iop_9,"Antiinflammatory, antiviral",doi:10.1088/1742-6596/1853/1/012059,iop_9,iop_9,https://iopscience.iop.org/article/10.1088/1742-6596/1853/1/012059/pdf
+iop_10,"Antiinflammatory, antiviral",doi:10.1088/1742-6596/1853/1/012059,iop_10,iop_10,https://iopscience.iop.org/article/10.1088/1742-6596/1853/1/012059/pdf
